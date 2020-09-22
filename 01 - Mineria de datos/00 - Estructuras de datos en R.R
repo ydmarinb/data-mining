@@ -1,3 +1,6 @@
+# Nos ubicamos en el directorio de trabajo
+setwd('CurosCienciasDatos/01 - Mineria de datos/BasesDatos/')
+
 ## Tipos de datos ##########################################
 entero <- 8
 real <- 7.8
